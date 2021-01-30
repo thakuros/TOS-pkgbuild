@@ -20,8 +20,6 @@
 		"/usr/share/cmake-3.19/Modules/CheckFunctionExists.cmake",
 		"/usr/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake",
 		"/usr/share/cmake-3.19/Modules/FindPackageMessage.cmake",
-		"/usr/share/cmake-3.19/Modules/CheckFunctionExists.c",
-		"/usr/share/cmake-3.19/Modules/CheckFunctionExists.c",
 		"/usr/share/cmake-3.19/Modules/GNUInstallDirs.cmake",
 		"/home/demonkiller/Files/Projects/TOS-pkgbuild/calamares-3.2.35.1/src/calamares-3.2.35.1/src/modules/welcome/welcome.conf",
 		"/home/demonkiller/Files/Projects/TOS-pkgbuild/calamares-3.2.35.1/src/calamares-3.2.35.1/src/modules/welcome/welcome.qrc"
