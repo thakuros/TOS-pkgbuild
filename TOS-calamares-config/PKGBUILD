@@ -1,14 +1,14 @@
 # Maintainer: DemonKiller
-pkgname=carli-calamares-config
+pkgname=TOS-calamares-config
 _destname1="/etc"
 _destname2="/etc"
 _destname3="/etc"
 _destname4="/etc"
 pkgver=20.12
 pkgrel=2
-pkgdesc="calamares for carli"
+pkgdesc="Calamares for Thakur OS"
 arch=('any')
-url="https://github.com/arcolinuxiso"
+url="https://github.com/thakuros"
 license=('GPL3')
 makedepends=('git')
 depends=()
