@@ -114,7 +114,7 @@ src/modules/fsresizer/libcalamares_job_fsresizer.so: src/modules/fsresizer/CMake
 src/modules/fsresizer/libcalamares_job_fsresizer.so: src/modules/fsresizer/CMakeFiles/calamares_job_fsresizer.dir/ResizeFSJob.cpp.o
 src/modules/fsresizer/libcalamares_job_fsresizer.so: src/modules/fsresizer/CMakeFiles/calamares_job_fsresizer.dir/build.make
 src/modules/fsresizer/libcalamares_job_fsresizer.so: /usr/lib/libkpmcore.so.20.12.1
-src/modules/fsresizer/libcalamares_job_fsresizer.so: libcalamares.so.3.2.35.1-3.1
+src/modules/fsresizer/libcalamares_job_fsresizer.so: libcalamares.so.3.2.35.1-5.1
 src/modules/fsresizer/libcalamares_job_fsresizer.so: /usr/lib/libyaml-cpp.so
 src/modules/fsresizer/libcalamares_job_fsresizer.so: /usr/lib/libQt5Network.so.5.15.2
 src/modules/fsresizer/libcalamares_job_fsresizer.so: /usr/lib/libQt5Xml.so.5.15.2

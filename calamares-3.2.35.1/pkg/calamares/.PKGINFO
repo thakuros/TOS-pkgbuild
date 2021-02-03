@@ -2,10 +2,10 @@
 # using fakeroot version 1.25.3
 pkgname = calamares
 pkgbase = calamares
-pkgver = 3.2.35.1-3
+pkgver = 3.2.35.1-5
 pkgdesc = Distribution-independent installer framework
 url = https://github.com/calamares/calamares/releases/download
-builddate = 1612155739
+builddate = 1612364014
 packager = Unknown Packager
 size = 9188110
 arch = x86_64

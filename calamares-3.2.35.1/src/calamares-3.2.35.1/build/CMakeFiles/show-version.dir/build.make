@@ -73,7 +73,7 @@ CMAKE_BINARY_DIR = /home/demonkiller/Files/Projects/ThakurOS/TOS-pkgbuild/calama
 include CMakeFiles/show-version.dir/progress.make
 
 CMakeFiles/show-version:
-	/usr/bin/cmake -E echo CALAMARES_VERSION=3.2.35.1-3.1
+	/usr/bin/cmake -E echo CALAMARES_VERSION=3.2.35.1-5.1
 
 show-version: CMakeFiles/show-version
 show-version: CMakeFiles/show-version.dir/build.make

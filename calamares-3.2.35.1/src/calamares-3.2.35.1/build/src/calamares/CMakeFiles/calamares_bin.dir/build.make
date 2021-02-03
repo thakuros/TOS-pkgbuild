@@ -640,9 +640,9 @@ calamares: src/calamares/CMakeFiles/calamares_bin.dir/__/__/3rdparty/kdsingleapp
 calamares: src/calamares/CMakeFiles/calamares_bin.dir/qrc_calamares_i18n.cxx.o
 calamares: src/calamares/CMakeFiles/calamares_bin.dir/calamares_bin_autogen/EWIEGA46WW/qrc_calamares.cpp.o
 calamares: src/calamares/CMakeFiles/calamares_bin.dir/build.make
-calamares: libcalamaresui.so.3.2.35.1-3.1
+calamares: libcalamaresui.so.3.2.35.1-5.1
 calamares: /usr/lib/libKF5Crash.so.5.78.0
-calamares: libcalamares.so.3.2.35.1-3.1
+calamares: libcalamares.so.3.2.35.1-5.1
 calamares: /usr/lib/libQt5Xml.so.5.15.2
 calamares: /usr/lib/libyaml-cpp.so
 calamares: /usr/lib/libQt5Svg.so.5.15.2

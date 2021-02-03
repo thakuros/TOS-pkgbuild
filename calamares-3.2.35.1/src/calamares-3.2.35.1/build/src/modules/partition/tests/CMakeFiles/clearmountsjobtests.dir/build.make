@@ -128,7 +128,7 @@ clearmountsjobtests: src/modules/partition/tests/CMakeFiles/clearmountsjobtests.
 clearmountsjobtests: src/modules/partition/tests/CMakeFiles/clearmountsjobtests.dir/__/jobs/ClearMountsJob.cpp.o
 clearmountsjobtests: src/modules/partition/tests/CMakeFiles/clearmountsjobtests.dir/ClearMountsJobTests.cpp.o
 clearmountsjobtests: src/modules/partition/tests/CMakeFiles/clearmountsjobtests.dir/build.make
-clearmountsjobtests: libcalamares.so.3.2.35.1-3.1
+clearmountsjobtests: libcalamares.so.3.2.35.1-5.1
 clearmountsjobtests: /usr/lib/libkpmcore.so.20.12.1
 clearmountsjobtests: /usr/lib/libQt5Test.so.5.15.2
 clearmountsjobtests: /usr/lib/libyaml-cpp.so

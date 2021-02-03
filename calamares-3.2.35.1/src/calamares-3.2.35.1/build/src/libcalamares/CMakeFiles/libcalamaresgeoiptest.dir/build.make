@@ -113,7 +113,7 @@ libcalamaresgeoiptest_EXTERNAL_OBJECTS =
 libcalamaresgeoiptest: src/libcalamares/CMakeFiles/libcalamaresgeoiptest.dir/libcalamaresgeoiptest_autogen/mocs_compilation.cpp.o
 libcalamaresgeoiptest: src/libcalamares/CMakeFiles/libcalamaresgeoiptest.dir/geoip/GeoIPTests.cpp.o
 libcalamaresgeoiptest: src/libcalamares/CMakeFiles/libcalamaresgeoiptest.dir/build.make
-libcalamaresgeoiptest: libcalamares.so.3.2.35.1-3.1
+libcalamaresgeoiptest: libcalamares.so.3.2.35.1-5.1
 libcalamaresgeoiptest: /usr/lib/libQt5Test.so.5.15.2
 libcalamaresgeoiptest: /usr/lib/libyaml-cpp.so
 libcalamaresgeoiptest: /usr/lib/libQt5Network.so.5.15.2

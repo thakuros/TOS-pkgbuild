@@ -143,8 +143,8 @@ src/modules/license/libcalamares_viewmodule_license.so: src/modules/license/CMak
 src/modules/license/libcalamares_viewmodule_license.so: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseViewStep.cpp.o
 src/modules/license/libcalamares_viewmodule_license.so: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/LicenseWidget.cpp.o
 src/modules/license/libcalamares_viewmodule_license.so: src/modules/license/CMakeFiles/calamares_viewmodule_license.dir/build.make
-src/modules/license/libcalamares_viewmodule_license.so: libcalamaresui.so.3.2.35.1-3.1
-src/modules/license/libcalamares_viewmodule_license.so: libcalamares.so.3.2.35.1-3.1
+src/modules/license/libcalamares_viewmodule_license.so: libcalamaresui.so.3.2.35.1-5.1
+src/modules/license/libcalamares_viewmodule_license.so: libcalamares.so.3.2.35.1-5.1
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libQt5Xml.so.5.15.2
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libKF5CoreAddons.so.5.78.0
 src/modules/license/libcalamares_viewmodule_license.so: /usr/lib/libyaml-cpp.so

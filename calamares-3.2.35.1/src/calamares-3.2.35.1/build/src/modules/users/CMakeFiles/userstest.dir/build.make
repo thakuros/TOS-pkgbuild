@@ -203,7 +203,7 @@ userstest: src/modules/users/CMakeFiles/userstest.dir/SetHostNameJob.cpp.o
 userstest: src/modules/users/CMakeFiles/userstest.dir/CheckPWQuality.cpp.o
 userstest: src/modules/users/CMakeFiles/userstest.dir/Config.cpp.o
 userstest: src/modules/users/CMakeFiles/userstest.dir/build.make
-userstest: libcalamares.so.3.2.35.1-3.1
+userstest: libcalamares.so.3.2.35.1-5.1
 userstest: /usr/lib/libcrypt.so
 userstest: /usr/lib/libpwquality.so
 userstest: /usr/lib/libicuuc.so

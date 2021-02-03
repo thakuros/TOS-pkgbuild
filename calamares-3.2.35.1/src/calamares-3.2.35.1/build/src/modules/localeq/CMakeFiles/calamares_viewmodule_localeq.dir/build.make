@@ -188,8 +188,8 @@ src/modules/localeq/libcalamares_viewmodule_localeq.so: src/modules/localeq/CMak
 src/modules/localeq/libcalamares_viewmodule_localeq.so: src/modules/localeq/CMakeFiles/calamares_viewmodule_localeq.dir/__/locale/SetTimezoneJob.cpp.o
 src/modules/localeq/libcalamares_viewmodule_localeq.so: src/modules/localeq/CMakeFiles/calamares_viewmodule_localeq.dir/calamares_viewmodule_localeq_autogen/EWIEGA46WW/qrc_localeq.cpp.o
 src/modules/localeq/libcalamares_viewmodule_localeq.so: src/modules/localeq/CMakeFiles/calamares_viewmodule_localeq.dir/build.make
-src/modules/localeq/libcalamares_viewmodule_localeq.so: libcalamaresui.so.3.2.35.1-3.1
-src/modules/localeq/libcalamares_viewmodule_localeq.so: libcalamares.so.3.2.35.1-3.1
+src/modules/localeq/libcalamares_viewmodule_localeq.so: libcalamaresui.so.3.2.35.1-5.1
+src/modules/localeq/libcalamares_viewmodule_localeq.so: libcalamares.so.3.2.35.1-5.1
 src/modules/localeq/libcalamares_viewmodule_localeq.so: /usr/lib/libQt5Xml.so.5.15.2
 src/modules/localeq/libcalamares_viewmodule_localeq.so: /usr/lib/libKF5CoreAddons.so.5.78.0
 src/modules/localeq/libcalamares_viewmodule_localeq.so: /usr/lib/libyaml-cpp.so

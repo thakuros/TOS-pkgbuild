@@ -195,9 +195,9 @@ src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: src/modules/plasmaln
 src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/ThemeInfo.cpp.o
 src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/calamares_viewmodule_plasmalnf_autogen/EWIEGA46WW/qrc_page_plasmalnf.cpp.o
 src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: src/modules/plasmalnf/CMakeFiles/calamares_viewmodule_plasmalnf.dir/build.make
-src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: libcalamaresui.so.3.2.35.1-3.1
+src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: libcalamaresui.so.3.2.35.1-5.1
 src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: /usr/lib/libKF5Plasma.so.5.78.0
-src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: libcalamares.so.3.2.35.1-3.1
+src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: libcalamares.so.3.2.35.1-5.1
 src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: /usr/lib/libQt5Xml.so.5.15.2
 src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: /usr/lib/libyaml-cpp.so
 src/modules/plasmalnf/libcalamares_viewmodule_plasmalnf.so: /usr/lib/libQt5QuickWidgets.so.5.15.2

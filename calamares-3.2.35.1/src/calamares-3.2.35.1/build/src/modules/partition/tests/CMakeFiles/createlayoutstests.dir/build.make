@@ -189,9 +189,9 @@ createlayoutstests: src/modules/partition/tests/CMakeFiles/createlayoutstests.di
 createlayoutstests: src/modules/partition/tests/CMakeFiles/createlayoutstests.dir/CreateLayoutsTests.cpp.o
 createlayoutstests: src/modules/partition/tests/CMakeFiles/createlayoutstests.dir/build.make
 createlayoutstests: /usr/lib/libkpmcore.so.20.12.1
-createlayoutstests: libcalamaresui.so.3.2.35.1-3.1
+createlayoutstests: libcalamaresui.so.3.2.35.1-5.1
 createlayoutstests: /usr/lib/libQt5Test.so.5.15.2
-createlayoutstests: libcalamares.so.3.2.35.1-3.1
+createlayoutstests: libcalamares.so.3.2.35.1-5.1
 createlayoutstests: /usr/lib/libQt5Xml.so.5.15.2
 createlayoutstests: /usr/lib/libKF5CoreAddons.so.5.78.0
 createlayoutstests: /usr/lib/libyaml-cpp.so

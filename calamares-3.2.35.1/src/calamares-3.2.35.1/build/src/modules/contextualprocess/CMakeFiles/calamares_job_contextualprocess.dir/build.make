@@ -113,7 +113,7 @@ calamares_job_contextualprocess_EXTERNAL_OBJECTS =
 src/modules/contextualprocess/libcalamares_job_contextualprocess.so: src/modules/contextualprocess/CMakeFiles/calamares_job_contextualprocess.dir/calamares_job_contextualprocess_autogen/mocs_compilation.cpp.o
 src/modules/contextualprocess/libcalamares_job_contextualprocess.so: src/modules/contextualprocess/CMakeFiles/calamares_job_contextualprocess.dir/ContextualProcessJob.cpp.o
 src/modules/contextualprocess/libcalamares_job_contextualprocess.so: src/modules/contextualprocess/CMakeFiles/calamares_job_contextualprocess.dir/build.make
-src/modules/contextualprocess/libcalamares_job_contextualprocess.so: libcalamares.so.3.2.35.1-3.1
+src/modules/contextualprocess/libcalamares_job_contextualprocess.so: libcalamares.so.3.2.35.1-5.1
 src/modules/contextualprocess/libcalamares_job_contextualprocess.so: /usr/lib/libyaml-cpp.so
 src/modules/contextualprocess/libcalamares_job_contextualprocess.so: /usr/lib/libQt5Network.so.5.15.2
 src/modules/contextualprocess/libcalamares_job_contextualprocess.so: /usr/lib/libQt5Xml.so.5.15.2

@@ -116,7 +116,7 @@ fsresizertest: src/modules/fsresizer/CMakeFiles/fsresizertest.dir/build.make
 fsresizertest: src/modules/fsresizer/libcalamares_job_fsresizer.so
 fsresizertest: /usr/lib/libyaml-cpp.so
 fsresizertest: /usr/lib/libQt5Test.so.5.15.2
-fsresizertest: libcalamares.so.3.2.35.1-3.1
+fsresizertest: libcalamares.so.3.2.35.1-5.1
 fsresizertest: /usr/lib/libyaml-cpp.so
 fsresizertest: /usr/lib/libQt5Network.so.5.15.2
 fsresizertest: /usr/lib/libQt5Xml.so.5.15.2

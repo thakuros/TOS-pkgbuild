@@ -173,7 +173,7 @@ localetest: src/modules/locale/CMakeFiles/localetest.dir/LocaleConfiguration.cpp
 localetest: src/modules/locale/CMakeFiles/localetest.dir/SetTimezoneJob.cpp.o
 localetest: src/modules/locale/CMakeFiles/localetest.dir/timezonewidget/TimeZoneImage.cpp.o
 localetest: src/modules/locale/CMakeFiles/localetest.dir/build.make
-localetest: libcalamares.so.3.2.35.1-3.1
+localetest: libcalamares.so.3.2.35.1-5.1
 localetest: /usr/lib/libQt5Test.so.5.15.2
 localetest: /usr/lib/libyaml-cpp.so
 localetest: /usr/lib/libQt5Network.so.5.15.2

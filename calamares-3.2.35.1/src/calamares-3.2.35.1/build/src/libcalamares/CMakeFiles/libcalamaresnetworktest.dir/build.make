@@ -113,7 +113,7 @@ libcalamaresnetworktest_EXTERNAL_OBJECTS =
 libcalamaresnetworktest: src/libcalamares/CMakeFiles/libcalamaresnetworktest.dir/libcalamaresnetworktest_autogen/mocs_compilation.cpp.o
 libcalamaresnetworktest: src/libcalamares/CMakeFiles/libcalamaresnetworktest.dir/network/Tests.cpp.o
 libcalamaresnetworktest: src/libcalamares/CMakeFiles/libcalamaresnetworktest.dir/build.make
-libcalamaresnetworktest: libcalamares.so.3.2.35.1-3.1
+libcalamaresnetworktest: libcalamares.so.3.2.35.1-5.1
 libcalamaresnetworktest: /usr/lib/libQt5Test.so.5.15.2
 libcalamaresnetworktest: /usr/lib/libyaml-cpp.so
 libcalamaresnetworktest: /usr/lib/libQt5Network.so.5.15.2

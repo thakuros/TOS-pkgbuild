@@ -128,8 +128,8 @@ src/modules/summary/libcalamares_viewmodule_summary.so: src/modules/summary/CMak
 src/modules/summary/libcalamares_viewmodule_summary.so: src/modules/summary/CMakeFiles/calamares_viewmodule_summary.dir/SummaryViewStep.cpp.o
 src/modules/summary/libcalamares_viewmodule_summary.so: src/modules/summary/CMakeFiles/calamares_viewmodule_summary.dir/SummaryPage.cpp.o
 src/modules/summary/libcalamares_viewmodule_summary.so: src/modules/summary/CMakeFiles/calamares_viewmodule_summary.dir/build.make
-src/modules/summary/libcalamares_viewmodule_summary.so: libcalamaresui.so.3.2.35.1-3.1
-src/modules/summary/libcalamares_viewmodule_summary.so: libcalamares.so.3.2.35.1-3.1
+src/modules/summary/libcalamares_viewmodule_summary.so: libcalamaresui.so.3.2.35.1-5.1
+src/modules/summary/libcalamares_viewmodule_summary.so: libcalamares.so.3.2.35.1-5.1
 src/modules/summary/libcalamares_viewmodule_summary.so: /usr/lib/libQt5Xml.so.5.15.2
 src/modules/summary/libcalamares_viewmodule_summary.so: /usr/lib/libKF5CoreAddons.so.5.78.0
 src/modules/summary/libcalamares_viewmodule_summary.so: /usr/lib/libyaml-cpp.so

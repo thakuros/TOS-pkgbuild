@@ -11,6 +11,6 @@
 #include "CalamaresVersion.h"
 
 #undef CALAMARES_VERSION
-#define CALAMARES_VERSION "3.2.35.1-3.1"
+#define CALAMARES_VERSION "3.2.35.1-5.1"
 
 #endif  // CALAMARES_VERSION_H

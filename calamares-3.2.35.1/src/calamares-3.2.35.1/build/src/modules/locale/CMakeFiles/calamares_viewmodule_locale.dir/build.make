@@ -278,9 +278,9 @@ src/modules/locale/libcalamares_viewmodule_locale.so: src/modules/locale/CMakeFi
 src/modules/locale/libcalamares_viewmodule_locale.so: src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/timezonewidget/TimeZoneImage.cpp.o
 src/modules/locale/libcalamares_viewmodule_locale.so: src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/calamares_viewmodule_locale_autogen/EWIEGA46WW/qrc_locale.cpp.o
 src/modules/locale/libcalamares_viewmodule_locale.so: src/modules/locale/CMakeFiles/calamares_viewmodule_locale.dir/build.make
-src/modules/locale/libcalamares_viewmodule_locale.so: libcalamaresui.so.3.2.35.1-3.1
+src/modules/locale/libcalamares_viewmodule_locale.so: libcalamaresui.so.3.2.35.1-5.1
 src/modules/locale/libcalamares_viewmodule_locale.so: /usr/lib/libyaml-cpp.so
-src/modules/locale/libcalamares_viewmodule_locale.so: libcalamares.so.3.2.35.1-3.1
+src/modules/locale/libcalamares_viewmodule_locale.so: libcalamares.so.3.2.35.1-5.1
 src/modules/locale/libcalamares_viewmodule_locale.so: /usr/lib/libQt5Xml.so.5.15.2
 src/modules/locale/libcalamares_viewmodule_locale.so: /usr/lib/libKF5CoreAddons.so.5.78.0
 src/modules/locale/libcalamares_viewmodule_locale.so: /usr/lib/libyaml-cpp.so

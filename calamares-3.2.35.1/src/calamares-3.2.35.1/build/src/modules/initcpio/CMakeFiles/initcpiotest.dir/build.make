@@ -116,7 +116,7 @@ initcpiotest: src/modules/initcpio/CMakeFiles/initcpiotest.dir/build.make
 initcpiotest: src/modules/initcpio/libcalamares_job_initcpio.so
 initcpiotest: /usr/lib/libyaml-cpp.so
 initcpiotest: /usr/lib/libQt5Test.so.5.15.2
-initcpiotest: libcalamares.so.3.2.35.1-3.1
+initcpiotest: libcalamares.so.3.2.35.1-5.1
 initcpiotest: /usr/lib/libyaml-cpp.so
 initcpiotest: /usr/lib/libQt5Network.so.5.15.2
 initcpiotest: /usr/lib/libQt5Xml.so.5.15.2

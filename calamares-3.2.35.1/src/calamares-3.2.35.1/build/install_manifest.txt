@@ -72,7 +72,7 @@
 /usr/share/locale/vi/LC_MESSAGES/calamares-python.mo
 /usr/share/locale/zh_CN/LC_MESSAGES/calamares-python.mo
 /usr/share/locale/zh_TW/LC_MESSAGES/calamares-python.mo
-/usr/lib/libcalamares.so.3.2.35.1-3.1
+/usr/lib/libcalamares.so.3.2.35.1-5.1
 /usr/lib/libcalamares.so
 /usr/include/libcalamares/CalamaresConfig.h
 /usr/include/libcalamares/CppJob.h
@@ -136,7 +136,7 @@
 /usr/include/libcalamares/utils/Variant.h
 /usr/include/libcalamares/utils/Yaml.h
 /usr/include/libcalamares/utils/moc-warnings.h
-/usr/lib/libcalamaresui.so.3.2.35.1-3.1
+/usr/lib/libcalamaresui.so.3.2.35.1-5.1
 /usr/lib/libcalamaresui.so
 /usr/include/libcalamares/Branding.h
 /usr/include/libcalamares/ViewManager.h

@@ -774,8 +774,8 @@ src/modules/partition/libcalamares_viewmodule_partition.so: src/modules/partitio
 src/modules/partition/libcalamares_viewmodule_partition.so: src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/jobs/SetPartitionFlagsJob.cpp.o
 src/modules/partition/libcalamares_viewmodule_partition.so: src/modules/partition/CMakeFiles/calamares_viewmodule_partition.dir/build.make
 src/modules/partition/libcalamares_viewmodule_partition.so: /usr/lib/libkpmcore.so.20.12.1
-src/modules/partition/libcalamares_viewmodule_partition.so: libcalamaresui.so.3.2.35.1-3.1
-src/modules/partition/libcalamares_viewmodule_partition.so: libcalamares.so.3.2.35.1-3.1
+src/modules/partition/libcalamares_viewmodule_partition.so: libcalamaresui.so.3.2.35.1-5.1
+src/modules/partition/libcalamares_viewmodule_partition.so: libcalamares.so.3.2.35.1-5.1
 src/modules/partition/libcalamares_viewmodule_partition.so: /usr/lib/libQt5Xml.so.5.15.2
 src/modules/partition/libcalamares_viewmodule_partition.so: /usr/lib/libKF5CoreAddons.so.5.78.0
 src/modules/partition/libcalamares_viewmodule_partition.so: /usr/lib/libyaml-cpp.so

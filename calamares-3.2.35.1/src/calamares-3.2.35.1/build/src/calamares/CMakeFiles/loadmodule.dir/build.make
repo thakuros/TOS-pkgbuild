@@ -98,8 +98,8 @@ loadmodule_EXTERNAL_OBJECTS =
 
 loadmodule: src/calamares/CMakeFiles/loadmodule.dir/testmain.cpp.o
 loadmodule: src/calamares/CMakeFiles/loadmodule.dir/build.make
-loadmodule: libcalamaresui.so.3.2.35.1-3.1
-loadmodule: libcalamares.so.3.2.35.1-3.1
+loadmodule: libcalamaresui.so.3.2.35.1-5.1
+loadmodule: libcalamares.so.3.2.35.1-5.1
 loadmodule: /usr/lib/libQt5Xml.so.5.15.2
 loadmodule: /usr/lib/libKF5CoreAddons.so.5.78.0
 loadmodule: /usr/lib/libyaml-cpp.so

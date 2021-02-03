@@ -128,7 +128,7 @@ contextualprocesstest: src/modules/contextualprocess/CMakeFiles/contextualproces
 contextualprocesstest: src/modules/contextualprocess/CMakeFiles/contextualprocesstest.dir/Tests.cpp.o
 contextualprocesstest: src/modules/contextualprocess/CMakeFiles/contextualprocesstest.dir/ContextualProcessJob.cpp.o
 contextualprocesstest: src/modules/contextualprocess/CMakeFiles/contextualprocesstest.dir/build.make
-contextualprocesstest: libcalamares.so.3.2.35.1-3.1
+contextualprocesstest: libcalamares.so.3.2.35.1-5.1
 contextualprocesstest: /usr/lib/libyaml-cpp.so
 contextualprocesstest: /usr/lib/libQt5Test.so.5.15.2
 contextualprocesstest: /usr/lib/libQt5Network.so.5.15.2

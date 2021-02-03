@@ -203,7 +203,7 @@ usersgroupstest: src/modules/users/CMakeFiles/usersgroupstest.dir/SetHostNameJob
 usersgroupstest: src/modules/users/CMakeFiles/usersgroupstest.dir/CheckPWQuality.cpp.o
 usersgroupstest: src/modules/users/CMakeFiles/usersgroupstest.dir/Config.cpp.o
 usersgroupstest: src/modules/users/CMakeFiles/usersgroupstest.dir/build.make
-usersgroupstest: libcalamares.so.3.2.35.1-3.1
+usersgroupstest: libcalamares.so.3.2.35.1-5.1
 usersgroupstest: /usr/lib/libcrypt.so
 usersgroupstest: /usr/lib/libpwquality.so
 usersgroupstest: /usr/lib/libicuuc.so

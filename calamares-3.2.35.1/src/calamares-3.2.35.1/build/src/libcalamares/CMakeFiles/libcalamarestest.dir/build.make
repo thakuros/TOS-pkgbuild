@@ -113,7 +113,7 @@ libcalamarestest_EXTERNAL_OBJECTS =
 libcalamarestest: src/libcalamares/CMakeFiles/libcalamarestest.dir/libcalamarestest_autogen/mocs_compilation.cpp.o
 libcalamarestest: src/libcalamares/CMakeFiles/libcalamarestest.dir/Tests.cpp.o
 libcalamarestest: src/libcalamares/CMakeFiles/libcalamarestest.dir/build.make
-libcalamarestest: libcalamares.so.3.2.35.1-3.1
+libcalamarestest: libcalamares.so.3.2.35.1-5.1
 libcalamarestest: /usr/lib/libQt5Test.so.5.15.2
 libcalamarestest: /usr/lib/libyaml-cpp.so
 libcalamarestest: /usr/lib/libQt5Network.so.5.15.2

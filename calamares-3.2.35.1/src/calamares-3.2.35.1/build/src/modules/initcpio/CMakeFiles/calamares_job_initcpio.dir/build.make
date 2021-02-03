@@ -113,7 +113,7 @@ calamares_job_initcpio_EXTERNAL_OBJECTS =
 src/modules/initcpio/libcalamares_job_initcpio.so: src/modules/initcpio/CMakeFiles/calamares_job_initcpio.dir/calamares_job_initcpio_autogen/mocs_compilation.cpp.o
 src/modules/initcpio/libcalamares_job_initcpio.so: src/modules/initcpio/CMakeFiles/calamares_job_initcpio.dir/InitcpioJob.cpp.o
 src/modules/initcpio/libcalamares_job_initcpio.so: src/modules/initcpio/CMakeFiles/calamares_job_initcpio.dir/build.make
-src/modules/initcpio/libcalamares_job_initcpio.so: libcalamares.so.3.2.35.1-3.1
+src/modules/initcpio/libcalamares_job_initcpio.so: libcalamares.so.3.2.35.1-5.1
 src/modules/initcpio/libcalamares_job_initcpio.so: /usr/lib/libyaml-cpp.so
 src/modules/initcpio/libcalamares_job_initcpio.so: /usr/lib/libQt5Network.so.5.15.2
 src/modules/initcpio/libcalamares_job_initcpio.so: /usr/lib/libQt5Xml.so.5.15.2

@@ -117,8 +117,8 @@ packagechoosertest: src/modules/packagechooser/libcalamares_viewmodule_packagech
 packagechoosertest: /usr/lib/libQt5Xml.so.5.15.2
 packagechoosertest: /usr/lib/libAppStreamQt.so.0.13.1
 packagechoosertest: /usr/lib/libQt5Test.so.5.15.2
-packagechoosertest: libcalamaresui.so.3.2.35.1-3.1
-packagechoosertest: libcalamares.so.3.2.35.1-3.1
+packagechoosertest: libcalamaresui.so.3.2.35.1-5.1
+packagechoosertest: libcalamares.so.3.2.35.1-5.1
 packagechoosertest: /usr/lib/libQt5Xml.so.5.15.2
 packagechoosertest: /usr/lib/libKF5CoreAddons.so.5.78.0
 packagechoosertest: /usr/lib/libyaml-cpp.so
