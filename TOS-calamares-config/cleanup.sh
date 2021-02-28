@@ -7,8 +7,9 @@
 #RUN AT YOUR OWN RISK.
 #================================================================================= 
 
-./cleanup.sh
+rm -rvf pkg/
+rm -rvf src/
+rm -rvf TOS-calamares-config
+rm -v TOS-calamares-config-21.03-1-any.pkg.tar.zst
 
-echo "------------------"
-echo "Making Package..."
-makepkg
+echo "D O N E!"
