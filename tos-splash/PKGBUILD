@@ -1,12 +1,12 @@
 # Maintainer: DemonKiller
-pkgname=tos-calamares-config
+pkgname=tos-splash
 _destname1="/etc"
 _destname2="/etc"
 _destname3="/etc"
 _destname4="/etc"
-pkgver=21.03
-pkgrel=4
-pkgdesc="Calamares for Thakur OS"
+pkgver=1
+pkgrel=1
+pkgdesc="Splash Screen for Thakur OS"
 arch=('any')
 url="https://github.com/thakuros"
 license=('GPL3')
