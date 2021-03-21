@@ -9,7 +9,7 @@
 
 rm -rvf pkg/
 rm -rvf src/
-rm -rvf TOS-calamares-config
-rm -v TOS-calamares-config-21.03-1-any.pkg.tar.zst
+rm -rvf tos-calamares-config
+rm -v tos-calamares-config-21.03-1-any.pkg.tar.zst
 
 echo "D O N E!"
