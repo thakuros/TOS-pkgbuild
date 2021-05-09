@@ -9,7 +9,6 @@
 
 rm -rvf pkg/
 rm -rvf src/
-rm -rvf tos-calamares-config
-rm -v tos-calamares-config-21.03-11-any.pkg.tar.zst
+rm -rvf tcet-cala-config*
 
 echo "D O N E!"
