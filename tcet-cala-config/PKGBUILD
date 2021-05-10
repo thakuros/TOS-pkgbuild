@@ -2,7 +2,7 @@
 pkgname=tcet-cala-config
 destname="/etc"
 pkgver=21.05
-pkgrel=1
+pkgrel=2
 pkgdesc="Calamares for TCET Linux"
 arch=('any')
 url="https://github.com/thakuros"

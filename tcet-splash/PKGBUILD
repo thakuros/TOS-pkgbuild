@@ -1,9 +1,9 @@
 # Maintainer: DemonKiller
-pkgname=tos-splash
-_destname="~/.local"
-pkgver=1
+pkgname=tcet-splash
+destname="/etc/"
+pkgver=21.05
 pkgrel=1
-pkgdesc="Splash Screen for Thakur OS"
+pkgdesc="Splash Screen for TCET Linux"
 arch=('any')
 url="https://github.com/thakuros"
 license=('GPL3')
@@ -15,6 +15,6 @@ options=(!strip !emptydirs)
 source=(${pkgname}::"git+${url}/${pkgname}")
 sha256sums=('SKIP')
 package() {
-	install -dm755 ${pkgdir}${_destname}
-	cp -r ${srcdir}/${pkgname}${_destname}/* ${pkgdir}${_destname}
-} 
+	install -dm755 ${pkgdir}${destname}
+	cp -r ${srcdir}/${pkgname}${destname}/* ${pkgdir}${destname}
+}
