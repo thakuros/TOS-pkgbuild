@@ -2,7 +2,7 @@
 
 pkgname=calamares
 pkgver=3.2.39.3
-pkgrel=2
+pkgrel=3
 pkgdesc='Distribution-independent installer framework'
 arch=('i686' 'x86_64')
 license=(GPL)
@@ -20,9 +20,18 @@ backup=('usr/share/calamares/modules/bootloader.conf'
 source=("$pkgname-$pkgver-$pkgrel.tar.gz::$url/v$pkgver/calamares-$pkgver.tar.gz")
 sha256sums=('7e4a10564ca17690534e4661db50799df82a3b3739c619fabbf25c1dd449a0be')
 
-prepare() {
+prepare() 
+{
 	cd ${srcdir}/calamares-${pkgver}
 	sed -i -e 's/"Install configuration files" OFF/"Install configuration files" ON/' CMakeLists.txt
+        sed -i -e 's/# DEBUG_FILESYSTEMS/DEBUG_FILESYSTEMS/' "$srcdir/${pkgname}-${pkgver}/CMakeLists.txt"
+
+	# modify desktop file
+	sed -i -e 's#Name=.*#Name=Install TCET Linux#g' "$srcdir/${pkgname}-${pkgver}/calamares.desktop"
+	sed -i -e 's#GenericName=.*#GenericName=TCET Linux Installer#g' "$srcdir/${pkgname}-${pkgver}/calamares.desktop"
+	sed -i -e 's#Icon=.*#Icon=tcet#g' "$srcdir/${pkgname}-${pkgver}/calamares.desktop"
+	sed -i -e 's#Comment=.*#Comment=TCET Linux Installer#g' "$srcdir/${pkgname}-${pkgver}/calamares.desktop"
+
 
 	# patches here
 
@@ -34,7 +43,8 @@ prepare() {
 
 }
 
-build() {
+build() 
+{
 	cd ${srcdir}/calamares-${pkgver}
 
 	mkdir -p build
@@ -52,7 +62,8 @@ build() {
         make
 }
 
-package() {
+package() 
+{
 	cd ${srcdir}/calamares-${pkgver}/build
 	make DESTDIR="$pkgdir" install
 	

@@ -1,7 +1,7 @@
 # Maintainer: DemonKiller
 pkgname=tcet-cala-config
 destname="/etc"
-pkgver=21.05
+pkgver=21.07
 pkgrel=2
 pkgdesc="Calamares for TCET Linux"
 arch=('any')
