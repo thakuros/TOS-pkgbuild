@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Qogir icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1296407</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>91</rating>
+  <downloads>6359</downloads>
+  <installedfile>/home/demonkiller/.local/share/icons/Qogir/*</installedfile>
+  <installedfile>/home/demonkiller/.local/share/icons/Qogir-dark/*</installedfile>
+  <id>1296407</id>
+  <releasedate>2021-06-15</releasedate>
+  <summary>This is a colorful and flat design icon theme with obvious borders.&lt;br />
+----------&lt;br />
+In order to provide a consistent experience across all desktops, &lt;br />
+I designed this theme to support all popular desktops.&lt;br />
+----------&lt;br />
+ wish you guys like it!&lt;br />
+&lt;br />
+-------------------------&lt;br />
+&lt;strong> Supported desktops &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> Gnome&lt;br />
+&lt;strong>2.&lt;/strong> Kde Plasma&lt;br />
+&lt;strong>3.&lt;/strong> Budgie&lt;br />
+&lt;strong>4.&lt;/strong> Cinnamon&lt;br />
+&lt;strong>5.&lt;/strong> Elementary Pantheon&lt;br />
+&lt;strong>6.&lt;/strong> Xfce4&lt;br />
+&lt;strong>7.&lt;/strong> Mate&lt;br />
+&lt;strong>...&lt;/strong>&lt;br />
+&lt;br />
+-------------------------&lt;br />
+ For better looking you can use this pack with:&lt;br />
+&lt;br />
+&lt;strong> Qogir gtk theme &lt;/strong> : &lt;a href="https://www.opendesktop.org/p/1230631/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1230631/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong> Qogir Kde theme &lt;/strong> : &lt;a href="https://www.opendesktop.org/p/1298345/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298345/&lt;/a>&lt;br />
+&lt;br />
+-------------------------&lt;br />
+&lt;strong>SOURCES:&lt;/strong>&lt;br />
+This theme is based on:&lt;br />
+arc-icon-theme: &lt;a href="https://github.com/horst3180/arc-icon-theme" target="_blank" rel="nofollow">https://github.com/horst3180/arc-icon-theme&lt;/a>&lt;br />
+faba-icon-theme: &lt;a href="https://github.com/snwh/faba-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/faba-icon-theme&lt;/a>&lt;br />
+Tela icon theme: &lt;a href="https://github.com/vinceliuice/Tela-icon-theme" target="_blank" rel="nofollow">https://github.com/vinceliuice/Tela-icon-theme&lt;/a>&lt;br />
+&lt;br />
+-------------------------&lt;br />
+&lt;strong>Donation&lt;/strong>: &lt;a href="https://www.paypal.me/vinceliuice" target="_blank" rel="nofollow">https://www.paypal.me/vinceliuice&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/f/e/f/2f6b77157742c0f7b75227950025fe86b81f.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjM3MzQ3NTMiLCJvIjoiMSIsInMiOiI5MmZmZDU4YjU1YWE5NGQzZjhlOTA0ZGY5ZGVmZmY3NzU2MDYwNmZlY2FiMjg1NjliMTYwMzcxZDkwNDA0ODQ0NTAwYjg5YTJiZDQwZTU2ODMyOWFhZDdlOGJmZWYxZjkzOTUyOTNlZGY5MGE2OGMxMjliNGI4NTQ0MDkwMTRlNiIsInQiOjE2MjU4NTkzMTQsInN0ZnAiOm51bGwsInN0aXAiOiIxMC4xMzUuMjQ2LjM4In0.VLiSNcPrA-8zCGY8oaL7sSI6-ahIWTvbsbRYRM55UU4/01-Qogir.tar.xz</payload>
+  <tags>original-product,gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

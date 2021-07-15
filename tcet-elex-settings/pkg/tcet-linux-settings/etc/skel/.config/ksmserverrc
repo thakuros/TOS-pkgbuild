@@ -1,0 +1,19 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1074657374000162585605500000007280006
+clientId2=1074657374000162585609100000007280007
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/systemsettings_1074657374000162585609100000007280007_1625856266_954080
+program1=pulseaudio
+program2=/usr/bin/systemsettings5
+restartCommand1=
+restartCommand2=/usr/bin/systemsettings5,-session,1074657374000162585609100000007280007_1625856266_954080
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=demonkiller
+userId2=demonkiller
